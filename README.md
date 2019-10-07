@@ -33,6 +33,11 @@ Denna övning är till för förstå delarna i ett formulär samt att kunna styl
 
 15. Styla nu _#submit_. Placera den til höger med _float:right_. Använd _background_ och ge en bakgrundsbild som ligger centrerad och till vänster. Du exporterar bakgrundsbidlen från figma (_bubble.png_). Ge lämplig _padding_, _color_. Lägg även in både ytter- och innerskuga.
 
-16.Exportera _bubble-hover_ från designskissen och gör ett tillstånd där _#submit:hover_ ändrar bakgrundsbild till den gröna bubblan.
+16. Exportera _bubble-hover_ från designskissen och gör ett tillstånd där _#submit:hover_ ändrar bakgrundsbild till den gröna bubblan.
 
 17. Lägg slutligen in en _clear:both;_ på element med *class="clear". Detta gör att *float\* återgår till normala flödet.
+
+18. Finputsa de olika delarna så att du får ett korrekt återgivet formulär som möjligt.
+
+Lycka till!
+/Sandra
